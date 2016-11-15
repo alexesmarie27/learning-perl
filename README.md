@@ -67,3 +67,6 @@ Prints all the files with the minimum size
 
 ## countfiles2.pl
 Counts the number of files in a directory
+
+## registrant.pl
+Given a domain name, uses the whois command to find the Registrant Name, Email, and Phone number using regular expressions
