@@ -55,3 +55,15 @@ Uses regex to practice substition
 
 ## words_regex.pl
 Substitute words in a string using regex
+
+## findin.pl
+Searches for strings in a file and keeps track of the count
+
+## findbigfiles.pl
+Prints the n largest files in a directory
+
+## findbysize.pl
+Prints all the files with the minimum size
+
+## countfiles2.pl
+Counts the number of files in a directory
